@@ -32,5 +32,5 @@ public class HelpActivity extends Activity implements OnClickListener {
 			startActivity(i);
 		}
 	}
-
+// comment to demo git.
 }
